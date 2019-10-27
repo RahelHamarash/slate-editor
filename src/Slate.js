@@ -15,10 +15,10 @@ const Slate = () => (
     <SlateEditor plugins={plugins}>
       <SlateToolbar>
         <h2>
-        <BoldButton />
-        <AlignmentRightButton/>
-        <AlignmentCenterButton/>
-        <AlignmentLeftButton/>
+          <BoldButton />
+          <AlignmentRightButton/>
+          <AlignmentCenterButton/>
+          <AlignmentLeftButton/>
         </h2>
       </SlateToolbar>
 
